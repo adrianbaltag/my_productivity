@@ -32,10 +32,6 @@ Install my-project with npm
 
 ## Usage
 
-There are 2 ways of running / customize this script for your need, in order to add / remove file extensions that you want to be deleted, and / or folder(s) content, and lastly to customize which URLs you want to be opeed automatically:
-
-### 1. Easy way
-
 - double click "my_productivity" folder on your Desktop, and open Install
 - once inside, double click 'src" folder
 - you should be able to see:
