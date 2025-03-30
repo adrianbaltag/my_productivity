@@ -32,7 +32,7 @@ if __name__ == "__main__":
     # List of file extensions to delete
     # Add or remove file extensions as needed
     file_extensions = [
-        ".docx",
+	    ".docx",
         ".png",
         ".txt",
         ".xlsx",
